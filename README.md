@@ -1,1 +1,1 @@
-# vijavaclient
+# vijava rest client
